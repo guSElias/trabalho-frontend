@@ -3,7 +3,7 @@
 ## Integrantes
 
 - Gustavo Elias de Souza — GitHub: preencher
-- Davi Santos da Silva — GitHub: UFOICE
+- Integrante B — nome e GitHub: preencher
 - Integrante C — nome e GitHub: preencher
 
 ## Como rodar
